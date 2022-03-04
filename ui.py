@@ -3,7 +3,7 @@ from PyQt5.QtCore import *
 import random
 import os
 from PyQt5.QtWebEngineWidgets import *
-import Main
+# import Main
 
 t_mood = "Happy"
 t_title = "Feather"
